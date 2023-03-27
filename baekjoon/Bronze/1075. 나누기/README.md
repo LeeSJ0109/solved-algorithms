@@ -17,4 +17,4 @@
 ## 🏷️ 태그
 
 - [수학](https://www.acmicpc.net/problemset?sort=ac_desc&algo=124)
-- [브루트포스 알고리즘](https://www.acmicpc.net/problemset?sort=ac_desc&algo=125)
+- [트포스 알고리즘](https://www.acmicpc.net/problemset?sort=ac_desc&algo=125)
