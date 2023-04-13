@@ -14,6 +14,12 @@
 | 시간   | 1872 ms  |
 | 언어   | Python 3 |
 
+| 항목   | 내용      |
+| ------ | --------- |
+| 메모리 | 208864 KB |
+| 시간   | 528 ms    |
+| 언어   | Python 3  |
+
 ## 🏷️ 태그
 
 - [백트래킹](https://www.acmicpc.net/problemset?sort=ac_desc&algo=5)
