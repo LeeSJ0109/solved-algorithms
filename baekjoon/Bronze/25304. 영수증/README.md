@@ -16,5 +16,6 @@
 
 ## 🏷️ 태그
 
+- [수학](https://www.acmicpc.net/problemset?sort=ac_desc&algo=124)
 - [구현](https://www.acmicpc.net/problemset?sort=ac_desc&algo=102)
-- [정렬](https://www.acmicpc.net/problemset?sort=ac_desc&algo=97)
+- [사칙연산](https://www.acmicpc.net/problemset?sort=ac_desc&algo=121)
