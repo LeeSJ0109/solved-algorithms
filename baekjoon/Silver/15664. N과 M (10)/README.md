@@ -2,7 +2,7 @@
 
 ## 🔗 문제 링크
 
-[바로가기](https://www.acmicpc.net/problem/1561566463)
+[바로가기](https://www.acmicpc.net/problem/15664)
 
 ![백준 로고](../../images/boj.png)
 
