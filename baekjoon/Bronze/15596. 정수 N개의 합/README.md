@@ -1,4 +1,4 @@
-# 15596. 정수 N개의 합<img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" alt="로고" height="32" style="vertical-align: middle;" />
+# 15596. 정수 N개의 합 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" alt="로고" height="32" style="vertical-align: middle;" />
 
 ## 🔗 문제 링크
 
