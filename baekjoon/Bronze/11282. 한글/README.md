@@ -1,4 +1,4 @@
-# 11282. 더하기 3 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" alt="로고" height="32" style="vertical-align: middle;" />
+# 11282. 한글 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" alt="로고" height="32" style="vertical-align: middle;" />
 
 ## 🔗 문제 링크
 
