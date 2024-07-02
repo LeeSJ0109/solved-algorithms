@@ -1,4 +1,4 @@
-package Java.Baekjoon.±¸Çö;
+package Java.Baekjoon.êµ¬í˜„;
 
 public class N2557 {
     public static void main(String[] args) {
