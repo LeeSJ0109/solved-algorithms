@@ -13,5 +13,7 @@ public class SWEA_2063 {
         arr = Arrays.stream(arr).sorted().toArray();
 
         System.out.println(arr[N/2]);
+
+        sc.close();
     }
 }
