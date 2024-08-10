@@ -7,7 +7,6 @@ public class BOJ_15650 {
 
     static int N, M;
     static int[] combination;
-    static boolean[] visited;
 
     static StringBuilder sb = new StringBuilder();
 
@@ -19,7 +18,6 @@ public class BOJ_15650 {
         M = Integer.parseInt(st.nextToken());
 
         combination = new int[M];
-        visited = new boolean[N + 1];
 
         System.out.println(combinations(0, 1));
     }
