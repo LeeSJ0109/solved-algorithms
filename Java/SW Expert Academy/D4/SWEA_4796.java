@@ -39,5 +39,6 @@ public class SWEA_4796 {
              
             System.out.println("#" + t + " " + count);
         }
+        sc.close();
     }
 }
