@@ -1,4 +1,3 @@
-package Java.Jungol.Å½¿å¾Ë°í¸®Áò;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -9,16 +8,16 @@ public class JO_1183 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st;
 		
-		// ¹°°ÇÀÇ °¡°İ W
+		// ë¬¼ê±´ì˜ ê°€ê²© W
 		int W = Integer.parseInt(br.readLine());
 		
-		// µ¿ÀüÀÇ °¡Ä¡
+		// ë™ì „ì˜ ê°€ì¹˜
 		int[] coinValues = {500, 100, 50, 10, 5, 1};
 		
-		// µ¿ÀüÀÇ °³¼ö
+		// ë™ì „ì˜ ê°œìˆ˜
 		int[] coinCounts = new int[6];
 		
-		// ÀüÃ¼ µ¿Àü °³¼ö, ¸¸µé ¼ö ÀÖ´Â ÃÖ´ë °¡Ä¡
+		// ì „ì²´ ë™ì „ ê°œìˆ˜, ë§Œë“¤ ìˆ˜ ìˆëŠ” ìµœëŒ€ ê°€ì¹˜
         int totalCoins = 0;
         int maxValue = 0;
         
@@ -30,26 +29,26 @@ public class JO_1183 {
 			maxValue += coinValues[i] * coinCounts[i];
 		}
 		
-		// ¸ñÇ¥ °¡Ä¡: ¸¸µé ¼ö ÀÖ´Â ÃÖ´ë °¡Ä¡ - ¹°°ÇÀÇ °¡°İ
-		int targetValue = maxValue - W;	// ¸¸µé°íÀÚ ÇÏ´Â ¸ñÇ¥ °¡Ä¡
-		int usedCoins = 0;				// »ç¿ëµÈ µ¿ÀüÀÇ °³¼ö
+		// ëª©í‘œ ê°€ì¹˜: ë§Œë“¤ ìˆ˜ ìˆëŠ” ìµœëŒ€ ê°€ì¹˜ - ë¬¼ê±´ì˜ ê°€ê²©
+		int targetValue = maxValue - W;	// ë§Œë“¤ê³ ì í•˜ëŠ” ëª©í‘œ ê°€ì¹˜
+		int usedCoins = 0;				// ì‚¬ìš©ëœ ë™ì „ì˜ ê°œìˆ˜
 		
-		// µ¿ÀüÀÇ °¡Ä¡¸¦ Å« °ÍºÎÅÍ Â÷·Ê·Î »ç¿ë
+		// ë™ì „ì˜ ê°€ì¹˜ë¥¼ í° ê²ƒë¶€í„° ì°¨ë¡€ë¡œ ì‚¬ìš©
 		for (int i = 0; i < 6; i++) {
 			int coinValue = coinValues[i];
             int coinCount = coinCounts[i];
             
-            // ÇöÀç µ¿ÀüÀ¸·Î ¸¸µé ¼ö ÀÖ´Â ÃÖ´ë °³¼ö
+            // í˜„ì¬ ë™ì „ìœ¼ë¡œ ë§Œë“¤ ìˆ˜ ìˆëŠ” ìµœëŒ€ ê°œìˆ˜
             int useCount = Math.min(targetValue / coinValue, coinCount);
             
-            // µ¿Àü »ç¿ë
+            // ë™ì „ ì‚¬ìš©
             targetValue -= useCount * coinValue;
             usedCoins += useCount;
             
-            // »ç¿ëµÈ µ¿Àü ÃÖ½ÅÈ­
+            // ì‚¬ìš©ëœ ë™ì „ ìµœì‹ í™”
             coinCounts[i] -= useCount;
             
-            // ¸ñÇ¥ °¡Ä¡°¡ 0ÀÌ µÇ¸é Á¾·á
+            // ëª©í‘œ ê°€ì¹˜ê°€ 0ì´ ë˜ë©´ ì¢…ë£Œ
             if (targetValue == 0)
                 break;
 		}
