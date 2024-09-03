@@ -13,7 +13,6 @@ public class SWEA_2117 {
     static int[] dx = {-1, 1, 0, 0};
     static int[] dy = {0, 0, -1, 1};
 
-    static int maxProfit = 0;
     static int max = 0;
 
     public static void main(String[] args) throws IOException {
@@ -35,7 +34,6 @@ public class SWEA_2117 {
                 }
             }
 
-            maxProfit = 0;
             max = 0;
 
             for (int K = 1; K <= N + 1; K++) {
