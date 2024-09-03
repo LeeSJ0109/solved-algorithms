@@ -122,7 +122,6 @@ public class BOJ_2931 {
             }
         }
 
-        char result = ' ';
         if (up == 1 && down == 1 && left == 0 && right == 0) {
             System.out.println(x + " " + y + " " + "|");
         }
