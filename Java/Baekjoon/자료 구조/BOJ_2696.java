@@ -10,7 +10,7 @@ public class BOJ_2696 {
 			int M = sc.nextInt();
 			List<Integer> list = new ArrayList<>();
 			
-			System.out.println(M /2 + 1);
+			System.out.println(M / 2 + 1);
 			for (int i = 1; i <= M; i++) {
 				list.add(sc.nextInt());
 				
