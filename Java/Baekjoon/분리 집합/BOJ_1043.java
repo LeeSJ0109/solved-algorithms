@@ -6,6 +6,7 @@ public class BOJ_1043 {
     static int[] parent;
     static ArrayList<Integer>[] party;
 
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
