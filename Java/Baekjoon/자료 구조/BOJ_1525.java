@@ -18,6 +18,7 @@ public class BOJ_1525 {
         }
 
         System.out.println(BFS(sb.toString()));
+        sc.close();
     }
 
     public static int BFS(String start) {
