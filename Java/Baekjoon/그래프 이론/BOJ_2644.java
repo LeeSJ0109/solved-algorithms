@@ -6,6 +6,7 @@ public class BOJ_2644 {
     static int n;
     static List<Integer>[] people;
 
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         n = Integer.parseInt(br.readLine());
