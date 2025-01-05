@@ -19,6 +19,7 @@ public class BOJ_1967 {
     static int maxDistance = 0;
     static int farthestNode = 0;
 
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
