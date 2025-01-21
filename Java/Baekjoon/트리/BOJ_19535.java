@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class BOJ_19535 {
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
