@@ -26,7 +26,7 @@ public class BOJ_10942 {
             }
         }
 
-        // ±זְּ 3ְּ»ף
+        // ך¸¸ל´ 3ל´לƒ
         for (int len = 3; len <= N; len++) {
             for (int start = 1; start + len - 1 <= N; start++) {
                 int end = start + len - 1;
