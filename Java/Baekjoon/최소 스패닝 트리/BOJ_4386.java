@@ -35,6 +35,7 @@ public class BOJ_4386 {
     static List<Edge>[] graph;
     static double totalDistance = 0;
 
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         n = Integer.parseInt(br.readLine());
