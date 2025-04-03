@@ -66,6 +66,7 @@ public class BOJ_4386 {
         System.out.println(String.format("%.2f", totalDistance));
     }
 
+    @SuppressWarnings("unchecked")
     static void Prim() {
         boolean[] visited = new boolean[n];
         PriorityQueue<Edge> pq = new PriorityQueue();
