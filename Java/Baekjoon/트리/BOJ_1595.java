@@ -17,6 +17,7 @@ public class BOJ_1595 {
         }
     }
 
+    @SuppressWarnings("unchecked")
     static List<Edge>[] tree = new ArrayList[10001];
     static boolean[] visited = new boolean[10001];
     static int maxDistance = 0;
