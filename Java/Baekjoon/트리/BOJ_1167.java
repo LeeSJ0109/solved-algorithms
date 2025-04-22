@@ -17,6 +17,7 @@ public class BOJ_1167 {
     static List<Node>[] tree;
     static int farthestNode;
 
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int V = Integer.parseInt(br.readLine());
