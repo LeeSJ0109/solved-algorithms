@@ -3,7 +3,6 @@
 ## 🔗 문제 링크
 
 [바로가기](https://www.acmicpc.net/problem/1000)
-[![백준 1000. A+B](../../이미지/boj.png "백준 1000. A+B")](https://www.acmicpc.net/problem/1000)
 
 ## ⚙️ 성능 요약
 
