@@ -4,6 +4,8 @@
 
 [바로가기](https://www.acmicpc.net/problem/1000)
 
+![백준 로고](../../이미지/boj.png)
+
 ## ⚙️ 성능 요약
 
 | 항목   | 내용     |
