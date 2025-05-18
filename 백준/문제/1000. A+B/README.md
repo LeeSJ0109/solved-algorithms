@@ -22,6 +22,6 @@
 
 ## 🏷️ 태그
 
-- [수학](/백준/태그/수학.md)
-- [구현](/백준/태그/구현.md)
-- [사칙연산](/백준/태그/사칙연산.md)
+- [수학](https://www.acmicpc.net/problemset?sort=ac_desc&algo=124)
+- [구현](https://www.acmicpc.net/problemset?sort=ac_desc&algo=102)
+- [사칙연산](https://www.acmicpc.net/problemset?sort=ac_desc&algo=121)
