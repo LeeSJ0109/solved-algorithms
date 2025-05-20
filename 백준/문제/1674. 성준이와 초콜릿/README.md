@@ -1,4 +1,4 @@
-# 1674. 성준이와 초콜릿
+# 1674. 성준이와 초콜릿 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" alt="로고" height="40" style="vertical-align: middle;" />
 
 ## 🔗 문제 링크
 
