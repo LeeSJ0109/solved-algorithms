@@ -1,7 +1,4 @@
-<h1 style="display: inline-flex; align-items: center; gap: 0.5em;">
-  11723. 집합
-  <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="로고" style="height: 1em;" />
-</h1>
+# 11723. 집합 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" alt="로고" height="40" style="vertical-align: middle;" />
 
 ## 🔗 문제 링크
 
