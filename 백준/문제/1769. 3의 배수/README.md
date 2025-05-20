@@ -1,4 +1,4 @@
-# 1769. 3의 배수
+# 1769. 3의 배수 <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" alt="로고" height="40" style="vertical-align: middle;" />
 
 ## 🔗 문제 링크
 
