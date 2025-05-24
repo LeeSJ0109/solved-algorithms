@@ -4,7 +4,7 @@
 
 [바로가기](https://www.acmicpc.net/problem/1674)
 
-![백준 로고](../../이미지/boj.png)
+![백준 로고](../../images/boj.png)
 
 ## ⚙️ 성능 요약
 
