@@ -6,3 +6,5 @@
 ## 📚 사이트별 분류
 
 - ### [백준(BOJ)](./baekjoon)
+- ### [SW Expert Academy(SWEA)](./swea)
+- ### [프로그래머스(programmers)](./programmers)
