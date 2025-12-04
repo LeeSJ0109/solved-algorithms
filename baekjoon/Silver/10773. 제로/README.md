@@ -14,7 +14,14 @@
 | 시간   | 3964 ms  |
 | 언어   | Python 3 |
 
+| 항목   | 내용     |
+| ------ | -------- |
+| 메모리 | 23676 KB |
+| 시간   | 244 ms   |
+| 언어   | Java 11  |
+
 ## 🏷️ 태그
 
+- [구현](https://www.acmicpc.net/problemset?sort=ac_desc&algo=102)
 - [자료 구조](https://www.acmicpc.net/problemset?sort=ac_desc&algo=175)
 - [스택](https://www.acmicpc.net/problemset?sort=ac_desc&algo=71)
