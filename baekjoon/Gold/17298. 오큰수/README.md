@@ -14,6 +14,12 @@
 | 시간   | 952 ms    |
 | 언어   | Python 3  |
 
+| 항목   | 내용      |
+| ------ | --------- |
+| 메모리 | 221996 KB |
+| 시간   | 1180 ms   |
+| 언어   | Python 3  |
+
 ## 🏷️ 태그
 
 - [자료 구조](https://www.acmicpc.net/problemset?sort=ac_desc&algo=175)
